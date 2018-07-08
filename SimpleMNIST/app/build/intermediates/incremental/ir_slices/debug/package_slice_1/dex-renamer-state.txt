@@ -1,0 +1,4 @@
+#Sun Jul 08 00:12:12 IST 2018
+base.0=/home/sunil/Android_projects/SimpleMNIST/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
